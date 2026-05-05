@@ -79,7 +79,7 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
+global.packname = 'Paimom-Bot 🔮'
 global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.policyGB = 'github.com/GataNina-Li/GataBot-MD/blob/master/terms.md'
 
